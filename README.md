@@ -1,4 +1,4 @@
-# Swiss Army App Backend
+# Swiss Army App Front ![travis build status](https://travis-ci.com/tganyan/swiss-army-app-frontend.svg?branch=master)
 
 ## Overview
 This will be an app meant to be a cornucopia of various useful navigational tools as well as informational tools regarding your area and context.
@@ -12,10 +12,6 @@ This will be an app meant to be a cornucopia of various useful navigational tool
 ## Testing
 
 ### Testing Framework: jest
-
-#### auth-router.js
-
-#### search-token-router.js
 
 ## Built With
 
