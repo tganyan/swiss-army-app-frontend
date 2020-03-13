@@ -1,6 +1,7 @@
 // ---------------- Backend Routes ----------------------/
 export const BACKEND_SIGNUP = '/signup';
 export const BACKEND_LOGIN = '/login';
+export const BACKEND_GETPROFILE = '/profile';
 
 // --------------- Frontend Routes --------------------/
 export const SIGNUP = '/signup';

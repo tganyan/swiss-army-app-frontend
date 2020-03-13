@@ -25,3 +25,7 @@ export const loginRequest = user => (store) => {
       return store.dispatch(set(response.text));
     });
 };
+
+export const profileRequest = user => (store) {
+  return superagent.get(``)
+}
